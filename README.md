@@ -48,11 +48,15 @@ Estudiante de Ingeniería de Sistemas Computacionales, actualmente cursando el 7
         <a href="https://www.java.com/es" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-plain.svg" /></a>
     </kbd>
     <br>
-    <kbd>Frontend</kbd>
-    <br><br>
-    <a href="https://getbootstrap.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
-    <a href="https://www.javascript.com" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" /></a>
-    <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
+    <kbd>
+      <kbd>Frontend</kbd>
+          <br><br>
+          <a href="https://getbootstrap.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
+          <a href="https://www.javascript.com" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" /></a>
+          <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
+    </kbd>
+        <br>
+    <kbd>
     <br>
     <kbd>
       <kbd>Database</kbd>
