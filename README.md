@@ -47,7 +47,6 @@ Estudiante de Ingeniería de Sistemas Computacionales, actualmente cursando el 7
       <br><br>
         <a href="https://www.java.com/es" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-plain.svg" /></a>
     </kbd>
-    <br>
     <kbd>
       <kbd>Frontend</kbd>
           <br><br>
@@ -55,9 +54,6 @@ Estudiante de Ingeniería de Sistemas Computacionales, actualmente cursando el 7
           <a href="https://www.javascript.com" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" /></a>
           <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
     </kbd>
-        <br>
-    <kbd>
-    <br>
     <kbd>
       <kbd>Database</kbd>
       <br>
@@ -73,7 +69,6 @@ Estudiante de Ingeniería de Sistemas Computacionales, actualmente cursando el 7
       <a href="https://cisco.com" target="_blank"><img width="50px" src="https://i.pinimg.com/736x/20/8a/0e/208a0edbaef7b78fada85b1121f65c6f.jpg" /></a>
       <a href="https://windows.com" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" /></a>
     </kbd>
-      <br>
     <kbd>
       <kbd>Editor de texto, IDE</kbd>
       <br>
@@ -84,11 +79,7 @@ Estudiante de Ingeniería de Sistemas Computacionales, actualmente cursando el 7
       <a href="https://developer.android.com/?hl=es-419" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/androidstudio/androidstudio-original.svg" /></a>
       <a href="https://www.spyder-ide.org" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spyder/spyder-original.svg" /></a>
       </kbd>
-    </kbd>
-      <br>
-
 </p>
-
 <br/>
 
 ##📈 Github Profile Stats
