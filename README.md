@@ -108,7 +108,7 @@ Estudiante de Ingeniería de Sistemas Computacionales, actualmente cursando el 7
     <a href="https://github.com/victovictorio00" target="_blank">
         <img width="40px" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="www.linkedin.com/in/victor-huaman" target="_blank">
+    <a href="https://www.linkedin.com/in/victor-huaman" target="_blank">
         <img width="40px" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.instagram.com/victor_vpln" target="_blank">
